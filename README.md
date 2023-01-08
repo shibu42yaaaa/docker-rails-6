@@ -1,4 +1,6 @@
-# docker-rails-6
+## docker-rails-6
+Docker環境の元リポジトリ
+- Docker使用時にここからクローンする
 
 ## gemのインストール
 ```
